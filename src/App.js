@@ -42,7 +42,7 @@ function App() {
 
   return (
     <div className="container mt-5">
-      <h2> Pagination Example in React </h2>
+      <h2> Pagination Example in React Practice</h2>
       <Records data={currentRecords} />
 
       <Pagination
